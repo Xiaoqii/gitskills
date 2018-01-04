@@ -8,7 +8,7 @@
 
 
 
-##### 一、创建版本库
+### 一、创建版本库
 
 第一步，创建版本库，选择一个合适的地方，创建空目录：
 
@@ -45,7 +45,7 @@ $ git diff #顾名思义就是查看difference
 
 
 
-##### 二、增删改查
+### 二、增删改查
 
 `git status`  ***命令***  可以让我们时刻掌握仓库当前的状态
 
@@ -131,7 +131,7 @@ af746dd HEAD@{1}: commit: 2018/01/04
 
 
 
-##### 三、远程仓库
+### 三、远程仓库
 
 ```
 $ ssh-keygen -t rsa -C "youremail@example.com" #创建SSH Key
@@ -163,5 +163,5 @@ $ git clone git@github.com:kingwc2017/gitskills.git
 
 
 
-##### 四、分支管理 
+### 四、分支管理 
 
