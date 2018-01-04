@@ -1,8 +1,9 @@
 # gitskills
-业余时间学习git
+###### 无他，唯手熟尔
 
-安装完成后，还需要最后一步设置，在命令行输入：
+工作当中一直在用svn，想通过业余时间学一下git，所以就有了一下总结，方便日后复习：
 
-`$ git config --global user.name "Your Name"`
-`$ git config --global user.email "email@example.com"`</br>
-注意git config命令的--global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置，当然也可以对某个仓库指定不同的用户名和Email地址。
+- [廖雪峰Git教程](http://t.cn/zQ6LFwE)
+- [学习笔记]( http://dwz.cn/7bX5re)
+- 谢谢浏览
+
